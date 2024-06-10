@@ -22,7 +22,6 @@ body {
 }
 
 header {
-    text-align: center;
     padding: 20px;
 }
 
@@ -64,4 +63,7 @@ header {
     height: 60px;
     font-size: small;
     margin-top: 50px;
+}
+.texto {
+    text-align: center;
 }
