@@ -68,6 +68,7 @@ header {
     margin-top: 50px;
 
 }
+
 .header,
 .empoderamento,
 .integração,
@@ -78,4 +79,12 @@ header {
 .erradicação,
 .header {
     text-align: center;
+}
+
+.errad_img {
+    margin-right: 900px;
+    height: 500px;
+}
+.erradicação {
+    
 }
