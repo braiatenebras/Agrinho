@@ -1,9 +1,8 @@
 body {
     background: url(assets/wpp.gif);
-    margin: 0;
-    padding: 0%;
     background-color: rgb(150, 164, 144);
     color: #ffffff;
+    text-align: center;
 }
 
 .navbar {
@@ -26,6 +25,8 @@ body {
 
 header {
     padding: 20px;
+    text-align: center;
+    font-size: 32px;
 }
 
 @media screen and (max-width: 600px) {
@@ -49,16 +50,6 @@ header {
     }
 }
 
-@media screen and (min-width: 1025px) {
-    .navbar a {
-        padding: 14px 20px;
-    }
-
-    header {
-        font-size: 32px;
-    }
-}
-
 .direitos,
 .minha-foto {
     border-radius: 50%;
@@ -66,25 +57,10 @@ header {
     height: 60px;
     font-size: small;
     margin-top: 50px;
-
-}
-
-.header,
-.empoderamento,
-.integração,
-.oportunidades,
-.erradicação,
-.cadeiasdevalor,
-.infraestrutura,
-.erradicação,
-.header {
-    text-align: center;
 }
 
 .errad_img {
-    margin-right: 900px;
     height: 500px;
-}
-.erradicação {
-    
+    width: auto;
+
 }
