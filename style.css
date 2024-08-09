@@ -3,13 +3,14 @@ body {
     background-color: rgb(150, 164, 144);
     color: #ffffff;
     text-align: center;
+    font-size: 17px;
 }
 
 .navbar {
     background-color: rgb(0, 0, 0);
     overflow: hidden;
     text-align: center;
- }
+}
 
 .navbar a {
     display: inline-block;
@@ -79,9 +80,15 @@ header {
     width: 700px;
     margin-left: 40px;
 }
+
 .tabela_econ {
-margin-top: 400px;
+    margin-top: 400px;
 }
+
 .tabela {
     margin-top: 80px;
+}
+
+.cadeiasdevalor img {
+    width: 900px;
 }
