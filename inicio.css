@@ -1,0 +1,55 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+.navbar {
+  background-color: rgb(204, 9, 9);
+  overflow: hidden;
+  text-align: center;
+}
+
+.navbar a {
+  display: inline-block;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  padding: 14px 20px;
+}
+
+.navbar a:hover {
+  background-color: #083d11;
+  color: rgb(255, 255, 255);
+  font-size: larger;
+}
+
+header {
+  background-color: rgb(146, 4, 4);
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 20px;
+  text-align: center;
+  font-size: 32px;
+}
+
+section {
+  padding: 2em;
+  background-color: #d6f5f9;
+  margin: 1em;
+  border-radius: 8px;
+}
+
+h3 {
+  color: #fa0505;
+}
+
+p {
+  font-size: medium;
+}
+
+.footer {
+  text-align: center;
+  font-size: 9px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+
+}
